@@ -1,0 +1,12 @@
+title: Tengfei's Notes 
+email: zhangtengfei@88.com 
+description: >- 
+  Tengfei's Notes
+github_username: ztf88 
+
+# Build settings
+theme: minima
+future: true
+plugins:
+  - jekyll-feed
+
